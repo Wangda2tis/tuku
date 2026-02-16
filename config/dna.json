@@ -1,7 +1,7 @@
 {
   "小青": {
     "source": "",
-    "appearance": "youthful appearance, petite, slender, boyish figure, \npale skin, oval face, amber eyes, long black hair, \nnarrow waist, slim hips, {{flat chest}}"
+    "appearance": "youthful appearance, petite, slender, delicate, soft body, {{boyish figure}}, pale skin, oval face, amber eyes, long black hair, narrow waist, slim hips, {{flat chest}}, -1.5::muscle::"
   },
   "小青(ai)": {
     "source": "",
