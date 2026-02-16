@@ -63,5 +63,15 @@
     "scale": 6,
     "smea": false,
     "variety": false
+  },
+  "c_1771248204603": {
+    "name": "自由",
+    "suffix": "",
+    "neg": "",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
