@@ -1,7 +1,7 @@
 {
   "小青": {
     "source": "",
-    "appearance": "youthful appearance, petite, slender, pale skin, long black hair, oval face, Amber eyes, {{flat_chest}}, boyish figure, narrow waist, slim hips."
+    "appearance": "youthful appearance, petite, slender, pale skin, long black hair, oval face, amber eyes, {{flat chest}}, boyish figure, narrow waist, slim hips."
   },
   "小青(ai)": {
     "source": "",
@@ -9,6 +9,6 @@
   },
   "nsfw": {
     "source": "",
-    "appearance": "heart-shaped pupils, teary eyes, erect nipple, -1.5::pubic hair::"
+    "appearance": "heart-shaped pupils, teary eyes, -1.5::pubic hair::"
   }
 }
