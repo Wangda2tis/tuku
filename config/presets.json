@@ -76,8 +76,8 @@
   },
   "c_1771304255098": {
     "name": "写实风格",
-    "suffix": "masterpiece, best quality, ultra-detailed, photorealistic, realistic skin texture, anime style, fusion,",
-    "neg": "lowres, blurry, bad anatomy, bad hands, extra fingers, mutated hands,  \ndisfigured, poorly drawn face, duplicate, morbid, mutilated,  \nout of frame, extra limbs, gross proportions, missing arms, missing legs,  \nextra arms, extra legs, fused fingers, too many fingers, long neck,  \nworst quality, normal quality, jpeg artifacts, signature, watermark,  \n3d, realistic photo, photograph, real person, live action,  \ndoll, plastic skin, airbrushed, overexposed\n",
+    "suffix": ".-1::ai-generated, ai-assisted, ::\n,-1::unfinished::， chiaroscuro\nmasterpiece\n, cinematic angle,masterpiece，best quality, amazing quality,\nlocation, very aesthetic, masterpiece,,\n",
+    "neg": "Nostalgic items, antiquated, lowres, {bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]",
     "sampler": "k_euler_ancestral",
     "steps": 28,
     "scale": 6,
