@@ -77,11 +77,11 @@
   "c_1771304255098": {
     "name": "写实风格",
     "suffix": "semi-realistic anime, realistic anime, photorealistic:1.1",
-    "neg": "anime style, low quality, worst quality, blurry, bad anatomy, extra limbs, text, watermark, logo, monochrome, grayscale\n",
+    "neg": "low quality, worst quality, blurry, bad anatomy, extra limbs, text, watermark, logo, monochrome, grayscale\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
     "scale": 6,
-    "smea": false,
+    "smea": true,
     "variety": false
   }
 }
