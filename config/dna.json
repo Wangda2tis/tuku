@@ -1,7 +1,7 @@
 {
   "小青": {
-    "source": "",
-    "appearance": "youthful appearance, petite, slender, delicate, soft body, {{boyish figure}}, pale skin, oval face, amber eyes, long black hair, narrow waist, slim hips, (flat chest:1.5), -1.5::muscle:: -1.5::breast::"
+    "source": "yao liao wang",
+    "appearance": "1girl, \nblack_hair_floor_length, straight_hair, (hair_gloss_level:0.8), \n(small_almond_eyes:1.3), (pupil_color:#645862), \n(pale_skin:1.6), (body_height:160), (body_weight:40), \n(underdeveloped_breasts:1.7), (nipple_color:#FFB9EC), \n(smooth_underarms:1.5), (no_pubic_hair:1.8), \n(childlike_proportions:1.3), (hip_to_waist_ratio:0.7), \n(visible_veins_neck:1.1), (wrist_circumference<14cm)"
   },
   "小青(ai)": {
     "source": "",
@@ -9,6 +9,6 @@
   },
   "nsfw": {
     "source": "",
-    "appearance": "heart-shaped pupils, teary eyes, -1.5::pubic hair::"
+    "appearance": "(breast_type:flat_with_protruding_nipples:1.7), \n(vulva_appearance:prepubescent_smooth:1.8), \n(labia_minora_exposure:0%:1.6), (clitoral_hood_tight:1.5), \n(vaginal_elasticity:high:1.4), (cervix_depth:shallow:1.3), \n(skin_response:blush_spread_from_perineum:1.6), \n(physiology:vaginal_mucous_secretion++:1.4), \n(nerve_density:clitoris>normal_300%:1.7), \n(areola_diameter:1.8cm:1.5), (nipple_erection_speed:0.3s)"
   }
 }
