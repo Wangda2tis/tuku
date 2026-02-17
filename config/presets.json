@@ -76,7 +76,7 @@
   },
   "c_1771304255098": {
     "name": "写实风格",
-    "suffix": "(masterpiece, best quality, official art:1.2),  \n(NovelAI v4.5 style, ultra-detailed illustration:1.3),  \n(realistic anime skin, soft subsurface scattering, delicate blush:1.3),  \n(cinematic lighting, golden hour glow, soft rim light:1.2),  \n(sharp focus, 8k resolution, intricate details:1.2),  \n(photorealistic texture on anime character, smooth shading:1.3),  \n(warm color palette, Kodak Portra film simulation:1.1),  \n(professional composition, shallow depth of field:1.1)\n",
+    "suffix": "masterpiece, best quality, ultra-detailed, photorealistic, realistic skin texture, anime style, fusion,",
     "neg": "lowres, blurry, bad anatomy, bad hands, extra fingers, mutated hands,  \ndisfigured, poorly drawn face, duplicate, morbid, mutilated,  \nout of frame, extra limbs, gross proportions, missing arms, missing legs,  \nextra arms, extra legs, fused fingers, too many fingers, long neck,  \nworst quality, normal quality, jpeg artifacts, signature, watermark,  \n3d, realistic photo, photograph, real person, live action,  \ndoll, plastic skin, airbrushed, overexposed\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
