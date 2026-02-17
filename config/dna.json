@@ -1,7 +1,7 @@
 {
   "小青": {
     "source": "yao liao wang",
-    "appearance": "1girl, \nblack_hair_floor_length, straight_hair, (hair_gloss_level:0.8), \n(small_almond_eyes:1.3), (pupil_color:#645862), \n(pale_skin:1.6), (body_height:160), (body_weight:40), \n(underdeveloped_breasts:1.7), (nipple_color:#FFB9EC), \n(smooth_underarms:1.5), (no_pubic_hair:1.8), \n(childlike_proportions:1.3), (hip_to_waist_ratio:0.7), \n(visible_veins_neck:1.1), (wrist_circumference<14cm)"
+    "appearance": "1girl, black_hair_floor_length, straight_hair,  \nalmond_eyes, amber pupils, upturned_eye_corners, pale_skin,  \n(height:160cm:1.6), (weight:40kg:1.7),  \n(underdeveloped_breasts:1.8), (A0_cup:1.7),  \n(nipple_size:0.9cm_erect:1.6), (areola_diameter:1.7cm:1.5),  \n(hip_width:22.1cm:1.4), (waist_circumference:56cm:1.3),  \n(hairless_pussy:1.9), (labia_minora_length:0.3cm:1.4),  \n(clitoral_hood_tight:1.5), (vaginal_depth:8.9cm:1.2),  \n(skin_thickness:0.8mm:1.1), (subcutaneous_fat:14%:1.3)"
   },
   "小青(ai)": {
     "source": "",
@@ -9,6 +9,6 @@
   },
   "nsfw": {
     "source": "",
-    "appearance": "(breast_type:flat_with_protruding_nipples:1.7), \n(vulva_appearance:prepubescent_smooth:1.8), \n(labia_minora_exposure:0%:1.6), (clitoral_hood_tight:1.5), \n(vaginal_elasticity:high:1.4), (cervix_depth:shallow:1.3), \n(skin_response:blush_spread_from_perineum:1.6), \n(physiology:vaginal_mucous_secretion++:1.4), \n(nerve_density:clitoris>normal_300%:1.7), \n(areola_diameter:1.8cm:1.5), (nipple_erection_speed:0.3s)"
+    "appearance": "(nerve_density:8200_per_cm²:1.6),  \n(vaginal_contraction_force:1.4N:1.5),  \n(arousal_fluid_ph:7.3:1.2),  \n(blush_area_coverage:87%:1.4),  \n(clitoral_erection_time:0.7s:1.7),  \n(lactate_dehydrogenase_level:240U/L:1.1)"
   }
 }
