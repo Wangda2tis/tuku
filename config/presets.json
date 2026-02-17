@@ -54,16 +54,6 @@
     "suffix": "{artist:ratatatat74}, detailed, high quality, {{{glistening skin}}}, {{sweat}}, {wet skin}, {oily skin}, {detailed skin}, [skin texture], {{dramatic lighting}}, {{high contrast}}, {volumetric light}, {rim lighting}, {warm lighting}, soft shading, {detailed background}",
     "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, bad face, distorted face, flat lighting, flat shading, cel shading, simple shading, dry skin, matte skin, soft lighting, overexposed, washed out, sketch, lineart, outline"
   },
-  "c_1771165115368": {
-    "name": "合法化",
-    "suffix": "(masterpiece, best quality, 8k),\na young woman standing confidently,\nbare shoulders, bare midriff, \nsubtle cleavage visible through thin fabric,\nsoft natural lighting from window,\ndetailed skin texture, realistic pores,\nslight sweat sheen on collarbone,\nlying on bed with silk sheets,\none strap of dress fallen off shoulder\n",
-    "neg": "nsfw, nude, naked, exposed genitals, \nbad anatomy, malformed hands, extra fingers, fused fingers,\nblurry, low quality, deformed face, asymmetrical eyes,\ndisfigured, poorly drawn face, mutation, mutated,\ntext, signature, watermark, username\n",
-    "sampler": "k_euler_ancestral",
-    "steps": 28,
-    "scale": 6,
-    "smea": false,
-    "variety": false
-  },
   "c_1771248204603": {
     "name": "自由",
     "suffix": "",
