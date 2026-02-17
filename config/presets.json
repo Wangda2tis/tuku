@@ -66,8 +66,8 @@
   },
   "c_1771304255098": {
     "name": "写实风格",
-    "suffix": ".-1::ai-generated, ai-assisted, ::\n,-1::unfinished::， chiaroscuro\nmasterpiece\n, cinematic angle,masterpiece，best quality, amazing quality,\nlocation, very aesthetic, masterpiece,,\n",
-    "neg": "Nostalgic items, antiquated, lowres, {bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]",
+    "suffix": ".-1::ai-generated, ai-assisted, ::\n,-1::unfinished::， chiaroscuro\nmasterpiece\n, cinematic angle,masterpiece，best quality, amazing quality,\nlocation, very aesthetic, masterpiece,,\nHigh definition, distinct colors",
+    "neg": "Nostalgic items, antiquated, lowres, {bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, watercolou, Ink paintin, Abnormal color ton, [abstract]",
     "sampler": "k_euler_ancestral",
     "steps": 28,
     "scale": 6,
