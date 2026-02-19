@@ -67,7 +67,7 @@
   "c_1771304255098": {
     "name": "写实风格",
     "suffix": ".-1::ai-generated, ai-assisted, ::\n,-1::unfinished::， chiaroscuro\nmasterpiece, best quality, amazing quality, high definition, very aesthetic, cinematic angle, distinct colors, location, true light, true shado, ",
-    "neg": "lowres, bad, error, worst quality, jpeg artifacts, bad quality, unfinished, displeasing,\nchromatic aberration, watermark, signature, username, scan,\nextra, fewer, missing, abnormal, multiple phones, extra digits, artistic error,\ndeformed, distorted, disfigured, mutated hands, poorly drawn face,\nwatercolour, ink painting, oil painting, painterly, brushstroke, canvas texture,\nnostalgic items, antiquated,\nmonochromatic blue, unnatural night, excessive chromatic cooling, film noir style, cinematic blue grade,\nabstract, yellow tint, warm color cast, sepia tone, orange skin, overly blue, abnormal color tone",
+    "neg": "lowres, {bad}, error, worst quality, jpeg artifacts, bad quality, unfinished, displeasing,\nchromatic aberration, watermark, signature, username, scan,\nextra, fewer, missing, abnormal, multiple phones, extra digits, artistic error,\ndeformed, distorted, disfigured, mutated hands, poorly drawn face,\nwatercolour, ink painting, oil painting, painterly, brushstroke, canvas texture,\nnostalgic items, antiquated,\nmonochromatic blue, unnatural night, excessive chromatic cooling, film noir style, cinematic blue grade,\nabstract, yellow tint, warm color cast, sepia tone, orange skin, overly blue, abnormal color tone\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
     "scale": 6,
