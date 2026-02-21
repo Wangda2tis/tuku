@@ -66,8 +66,8 @@
   },
   "c_1771304255098": {
     "name": "写实风格",
-    "suffix": ".-1::ai-generated, ai-assisted, ::\n,-1::unfinished::， (third dimension:1.1)\nmasterpiece, best quality, amazing quality, high definition, very aesthetic, location, true shado, {{shadow details}}, ",
-    "neg": "lowres, inveracious, {bad}, error, worst quality, jpeg artifacts, bad quality, unfinished, displeasing,\nchromatic aberration, watermark, signature, username, scan,\nextra, fewer, missing, abnormal, multiple phones, extra digits, artistic error,\ndeformed, distorted, disfigured, mutated hands, poorly drawn face, radiant skin, \nwatercolour, ink painting, oil painting, painterly, brushstroke, canvas texture,\nnostalgic items, antiquated,\nyellow skin, orange skin, unnatural skin tone, sallow skin, jaundiced skin, oversaturated warmth, warm shadows\nunnatural, over exposur, dazzling sunlight",
+    "suffix": "(photorealistic:1.6), (3D render:1.5), (CGI character:1.4), ultra realistic skin texture, subsurface scattering, realistic lighting, depth of field, sharp focus, cinematic shot, \n-1::unfinished::, chiaroscuro, \nmasterpiece, best quality, amazing quality, high definition, very aesthetic, location, true shado, {{shadow details}}, ",
+    "neg": "anime, cartoon, illustration, drawing, 2D, flat colors, cel shading, line art, manga, doujinshi, chibi, stylized, fantasy art, painterly, sketch, ink outline, \nlowres, inveracious, {bad}, error, worst quality, jpeg artifacts, bad quality, unfinished, displeasing,\nchromatic aberration, watermark, signature, username, scan,\nextra, fewer, missing, abnormal, multiple phones, extra digits, artistic error,\ndeformed, distorted, disfigured, mutated hands, poorly drawn face, radiant skin, \nwatercolour, ink painting, oil painting, painterly, brushstroke, canvas texture,\nnostalgic items, antiquated,\nyellow skin, orange skin, unnatural skin tone, sallow skin, jaundiced skin, oversaturated warmth, warm shadows\nunnatural, over exposur, dazzling sunlight",
     "sampler": "k_euler_ancestral",
     "steps": 28,
     "scale": 6,
