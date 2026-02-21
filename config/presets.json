@@ -66,7 +66,7 @@
   },
   "c_1771304255098": {
     "name": "写实风格",
-    "suffix": ".-1::ai-generated, ai-assisted, ::\n,-1::unfinished::， chiaroscuro\nmasterpiece, best quality, amazing quality, high definition, very aesthetic, cinematic angle, distinct colors, location, true light, true shado, Three-dimensional light and shadow, Details in the Play of Light and Shado, {{shadow details}}, ",
+    "suffix": ".-1::ai-generated, ai-assisted, ::\n,-1::unfinished::， (third dimension:2)\nmasterpiece, best quality, amazing quality, high definition, very aesthetic, cinematic angle, distinct colors, location, true light, true shado, details in the Play of Light and Shado, {{shadow details}}, ",
     "neg": "lowres, {bad}, error, worst quality, jpeg artifacts, bad quality, unfinished, displeasing,\nchromatic aberration, watermark, signature, username, scan,\nextra, fewer, missing, abnormal, multiple phones, extra digits, artistic error,\ndeformed, distorted, disfigured, mutated hands, poorly drawn face, radiant skin, \nwatercolour, ink painting, oil painting, painterly, brushstroke, canvas texture,\nnostalgic items, antiquated,\nunnatural night, abstract, over exposure",
     "sampler": "k_euler_ancestral",
     "steps": 28,
