@@ -73,5 +73,15 @@
     "scale": 6,
     "smea": false,
     "variety": false
+  },
+  "c_1771626874812": {
+    "name": "空白",
+    "suffix": "",
+    "neg": "",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
