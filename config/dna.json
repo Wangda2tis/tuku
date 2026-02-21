@@ -1,10 +1,10 @@
 {
   "小青": {
-    "source": "2::yao liao wang::, 1.5::xilmo::,1.1::fkey::, meinoss, dikko, 1.1::some1else45 ::, akipeko, chuck_(harfmoondark) , miv4t, -2::artist collaboration::,,0.7::solipsist,::, 0.5::WLOP::",
-    "appearance": "{{purity sensation}}, (orange amber eyes:1.1), long eyelashes, eyeliner, blush, (pink lips:1.1),\n{{long hair}}, {{black hair}}, (voluminous hair:1.5), (flowing hair:1.4), (individual strands:1.4), detailed hair, wispy hair, soft strands, straight hair, \n(petite:1.2), slender build, {{flat chest}}, (hidden shadow details:0.9),"
+    "source": "2::yao liao wang::, 1.5::xilmo::,1.1::fkey::, meinoss, dikko, 1.1::some1else45 ::, akipeko, chuck_(harfmoondark) , miv4t, -2::artist collaboration::,,0.7::solipsist,::, 0.5::WLOP::, 1.1::impasto,painterly::",
+    "appearance": "{{purity sensation}}, (orange amber eyes:1.1), long eyelashes, eyeliner, blush, (pink lips:1.1),\n{{long hair}}, {{black hair}}, (voluminous hair:1.5), (flowing hair:1.4), (individual strands:1.4), detailed hair, wispy hair, soft strands, straight hair, -1::bald::, \n(petite:1.2), slender build, {{flat chest}}, (hidden shadow details:0.9),"
   },
   "小青(nsfw)": {
-    "source": "1.1::impasto,painterly::",
+    "source": "",
     "appearance": "(sparkling heart eyes:1.2), small areolae, hairless body, no pubic hair, smooth."
   },
   "me": {
