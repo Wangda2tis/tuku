@@ -70,7 +70,7 @@
     "neg": "lowres, bad quality, worst quality, normal quality, jpeg artifacts, blurry, unfocused, grainy, noisy, oversaturated, underexposed, overexposed,\nunfinished, displeasing, error, out of frame, cropped, duplicate,\ntext, signature, watermark, username, logo, barcode, label, scan,\nabstract, surreal, dreamlike, glitch, distorted perspective, fisheye, wide angle distortion,\nanime, cartoon, illustration, drawing, sketch, manga, doujinshi, (chibi:0.8),\n(2D:1.2), flat colors, cel shading, line art, vector art, sticker, pixel art,\nwatercolor, ink painting, oil painting, painterly, brushstroke, canvas texture, impasto, palette knife,\ndeformed, distorted, disfigured, mutated, malformed, abnormal anatomy, asymmetric eyes,\nextra limbs, missing limbs, fused limbs, cloned body parts, floating limbs,\nbad hands, poorly drawn hands, extra fingers, missing fingers, fused fingers, too many fingers, unnatural hand pose, twisted fingers, disconnected fingers,\ndoll-like, plastic skin, waxy skin, oversmooth, airbrushed, fake skin, mannequin,\nvintage, sepia, old photo, nostalgic filter, film burn, light leak,\nbright lighting, high-key lighting, cheerful, sunny day, vibrant colors, pastel colors,\n{{phone}}, smartphone, cellphone, holding phone, using phone, iphone, android\n",
     "sampler": "k_dpmpp_2m_sde",
     "steps": 28,
-    "scale": 6,
+    "scale": 8,
     "smea": true,
     "variety": false
   },
