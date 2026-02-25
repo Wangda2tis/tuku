@@ -5,7 +5,7 @@
   },
   "小青(nsfw)": {
     "source": "",
-    "appearance": "{{{{nsfw}}}}, 1.2::pink heart-shaped eyes::, \n(erect nipples: 1.1), (open mouth 1.2), (panting: 1.8), (no pubic hair: 1.2), (sweat: 0.5),"
+    "appearance": "{{{{nsfw}}}}, 1.2::pink heart-shaped eyes::, \n(erect nipples: 1.1), (no pubic hair:1.1), \n(cinematic lighting:1.2), (depth of field:1.1), (soft focus:1.1), \n-1.3::funny face::, -1.2::comedy::, -1.2::distorted face::, -1.1::cross-eyed::, -1.1::cartoonish:1.1::,"
   },
   "me": {
     "source": "1.1::impasto,painterly::",
