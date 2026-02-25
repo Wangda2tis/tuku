@@ -1,11 +1,11 @@
 {
   "小青": {
     "source": "",
-    "appearance": "unaware, cute poses, fair skin, pretty, \n(gentle fabric folds:0.3), (soft draping:0.3),  \n(subtle body contour:0.7), (hinted body silhouette:0.7), (hidden underwear:0.7), (legs slightly parted:0.7), \n(orange amber eyes:1.2), (almond eyes:1.1), clear and bright eyes, long eyelashes, subtle eyeliner, \nnatural arched eyebrows, small delicate nose, rounded nasal tip, \nsmall thin lips, soft pink lips, \n{{extra-long hair}}, {{black hair}}, (straight hair:0.8), (voluminous hair:0.8), (hair volume:1.2), (flowing hair:1.2), (individual strands:1.4), detailed hair, wispy hair, soft strands, \n(petite:1.3), (160cm height:1.0), (slender build:1.2), (delicate bone structure:1.2), \n{{flat chest}}, (narrow shoulders:1.1), (slim waist:1.2), (small rounded hips:1.1), \n(correct anatomy:1.2), (balanced shoulder-to-hip ratio:1.1), \n(small areola:0.2),"
+    "appearance": "unaware, cute poses, pretty, fair skin, \n{{extra-long hair}}, {{black hair}}, (straight hair:0.8), (voluminous hair:0.8), (hair volume:1.2), (flowing hair:1.2), (individual strands:1.4), detailed hair, wispy hair, soft strands, \n(orange amber eyes:1.2), (almond eyes:1.1), clear and bright eyes, long eyelashes, subtle eyeliner, natural arched eyebrows, small delicate nose, rounded nasal tip, small thin lips, soft pink lips, \n(petite:1.3), (160cm height:1.0), (slender build:1.2), (delicate bone structure:1.2), {{flat chest}}, (narrow shoulders:1.1), (slim waist:1.2), (small rounded hips:1.1), (correct anatomy:1.2), (balanced shoulder-to-hip ratio:1.1), \n(gentle fabric folds:0.3), (soft draping:0.3), \n(subtle body contour:0.7), (hinted body silhouette:0.7), (hidden underwear:0.7), (legs slightly parted:0.7), \n(small areola:0.2),"
   },
   "小青(nsfw)": {
     "source": "",
-    "appearance": "Pink heart-shaped pupils,  \n(erect nipples: 1.1), (open mouth 0.8), (panting: 0.8), (no pubic hair: 0.8), (sweat: 0.5)"
+    "appearance": "{{{{nsfw}}}}, 1.2::pink heart-shaped eyes::, \n(erect nipples: 1.1), (open mouth 1.2), (panting: 1.8), (no pubic hair: 1.2), (sweat: 0.5),"
   },
   "me": {
     "source": "1.1::impasto,painterly::",
