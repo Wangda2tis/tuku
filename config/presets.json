@@ -60,7 +60,7 @@
     "neg": "{{{{bad anatomy}}}}, {bad feet}, bad hands, {{{bad proportions}}}, {blurry}, cloned face, cropped, {{{deformed}}}, {{{disfigured}}}, error, {{{extra arms}}}, {extra digit}, {{{extra legs}}}, extra limbs, {{extra limbs}}, {fewer digits}, {{{fused fingers}}}, gross proportions, ink eyes, ink hair, jpeg artifacts, {{{{long neck}}}}, low quality, {malformed limbs}, {{missing arms}}, {missing fingers}, {{missing legs}}, {{{more than 2 }}}, mutated hands, {{{mutation}}}, normal quality,owres, {{poorly drawn face}}, {{poorly drawn hands}}, reen eyes, signature, text, {{too many fingers}}, {{{ugly}}}, username, uta, watermark, worst quality, {{{more than 2 legs}}}, \nanime, cartoon, graphic, 2d, illustration, painting, drawing, sketch, cgi, render, 3d, doll, plastic skin, deformed, bad anatomy, disfigured, poorly drawn hands, missing fingers, extra digits, cropped, worst quality, low quality, jpeg artifacts, signature, watermark, username, blurry, \n5::mobile phone, smartphone, cell phone, iphone, android, device, screen, holding phone, scrolling, camera, electronic device, gadget, tech, black rectangle in hand, glowing screen, smart device, telephone, handset::, \nnevus, \nred tint, color cast, warm color, orange skin, bad white balance, oversaturated reds, ",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 6,
+    "scale": 8,
     "smea": true,
     "variety": false
   },
