@@ -60,7 +60,7 @@
     "neg": "{{{{bad anatomy}}}}, {bad feet}, bad hands, {{{bad proportions}}}, {blurry}, cloned face, cropped, {{{deformed}}}, {{{disfigured}}}, error, {{{extra arms}}}, {extra digit}, {{{extra legs}}}, extra limbs, {{extra limbs}}, {fewer digits}, {{{fused fingers}}}, gross proportions, ink eyes, ink hair, jpeg artifacts, {{{{long neck}}}}, low quality, {malformed limbs}, {{missing arms}}, {missing fingers}, {{missing legs}}, {{{more than 2 }}}, mutated hands, {{{mutation}}}, normal quality,owres, {{poorly drawn face}}, {{poorly drawn hands}}, reen eyes, signature, text, {{too many fingers}}, {{{ugly}}}, username, uta, watermark, worst quality, {{{more than 2 legs}}}, \nnevus, orange skin, ",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 6,
+    "scale": 9,
     "smea": true,
     "variety": false
   }
