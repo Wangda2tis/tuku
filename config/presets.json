@@ -63,25 +63,5 @@
     "scale": 6,
     "smea": true,
     "variety": false
-  },
-  "c_1771304255098": {
-    "name": "写实风格",
-    "suffix": "2::yao liao wang::, 1.5::xilmo::, 1.1::fkey::, meinoss, dikko, 1.1::some1else45 ::, akipeko, chuck_(harfmoondark), \nmiv4t, 0.5::WLPO::, -2::artist collaboration::, 0.7::solipsist::, chiaroscuro, \nmodernization, (Octane Render:1.5), (Unreal Engine 5:1.8), depth of field, \n(subsurface scattering:1.2), visible pores, skin texture, uneven skin tone, \nmasterpiece, cinematic angle, masterpiece, best quality, amazing quality, location, very aesthetic, masterpiece, ",
-    "neg": "lowres, {bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], \n anime, cartoon, graphic, 2d, illustration, painting, drawing, sketch, cgi, render, 3d, doll, plastic skin, deformed, bad anatomy, disfigured, poorly drawn hands, missing fingers, extra digits, cropped, worst quality, low quality, jpeg artifacts, signature, watermark, username, blurry, \nphone screen, {{phone}}, smartphone, device, overexposed, 0.3::warm-toned::, 1.4::mole::, \n(worst quality, low quality:1.4), (zombie, sketch, interlocked fingers, comic), (easiest negative), blur, noise, jpeg artifacts, watermark, text, signature, username, cropped, out of frame, bad anatomy, deformed, disfigured, extra limbs, missing fingers, fused fingers, bad hands, ugly, tiling, poorly drawn face, mutation, mutated, extra limb, ugly, poorly drawn hands, floating limbs, disconnected limbs, malformed hands, blur, out of focus, long neck, long body, bad proportions, gross proportions, structural error, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, username, watermark, signature, ",
-    "sampler": "k_dpmpp_2m_sde",
-    "steps": 28,
-    "scale": 6,
-    "smea": true,
-    "variety": false
-  },
-  "c_1771626874812": {
-    "name": "空白",
-    "suffix": "",
-    "neg": "",
-    "sampler": "k_euler_ancestral",
-    "steps": 28,
-    "scale": 6,
-    "smea": false,
-    "variety": false
   }
 }
