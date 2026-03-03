@@ -56,11 +56,11 @@
   },
   "c_1771248204603": {
     "name": "拟真风格",
-    "suffix": "artist:yao liao wang, artist:greg rutkowski, artist:artgerm, artist:wlop, artist:john singer sargen, \nphotorealistic, realistic, raw photo, 8k uhd, Soft light, high quality, Fujifilm XT4, skin texture, pores, detailed eyes, \nbest quality, amazing quality, very aesthetic, absurdres, ",
-    "neg": "{{{{bad anatomy}}}}, {bad feet}, bad hands, {{{bad proportions}}}, {blurry}, cloned face, cropped, {{{deformed}}}, {{{disfigured}}}, error, {{{extra arms}}}, {extra digit}, {{{extra legs}}}, extra limbs, {{extra limbs}}, {fewer digits}, {{{fused fingers}}}, gross proportions, ink eyes, ink hair, jpeg artifacts, {{{{long neck}}}}, low quality, {malformed limbs}, {{missing arms}}, {missing fingers}, {{missing legs}}, {{{more than 2 }}}, mutated hands, {{{mutation}}}, normal quality,owres, {{poorly drawn face}}, {{poorly drawn hands}}, reen eyes, signature, text, {{too many fingers}}, {{{ugly}}}, username, uta, watermark, worst quality, {{{more than 2 legs}}}, \nnevus, orange skin, ",
+    "suffix": "2::artist:yao liao wang::, 0.5::artist:greg rutkowski, artist:artgerm, artist:wlop::, \nphotorealistic, realistic, raw photo, 8k uhd, Soft light, high quality, Fujifilm XT4, skin texture, pores, detailed eyes, \nbest quality, amazing quality, very aesthetic, absurdres, ",
+    "neg": "{{{{bad anatomy}}}}, {bad feet}, bad hands, {{{bad proportions}}}, {blurry}, cloned face, cropped, {{{deformed}}}, {{{disfigured}}}, error, {{{extra arms}}}, {extra digit}, {{{extra legs}}}, extra limbs, {{extra limbs}}, {fewer digits}, {{{fused fingers}}}, gross proportions, ink eyes, ink hair, jpeg artifacts, {{{{long neck}}}}, low quality, {malformed limbs}, {{missing arms}}, {missing fingers}, {{missing legs}}, {{{more than 2 }}}, mutated hands, {{{mutation}}}, normal quality,owres, {{poorly drawn face}}, {{poorly drawn hands}}, reen eyes, signature, text, {{too many fingers}}, {{{ugly}}}, username, uta, watermark, worst quality, {{{more than 2 legs}}}, \nnevus, orange skin, mirror, ",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 6,
+    "scale": 6.5,
     "smea": true,
     "variety": false
   }
