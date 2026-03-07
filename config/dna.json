@@ -10,5 +10,9 @@
   "man": {
     "source": "",
     "appearance": "1boy, Partially visible, not the key point, 3::first person::, 1.1::There is a stack of money in the background::,"
+  },
+  "暧昧姿势": {
+    "source": "",
+    "appearance": "[Pose & Camera]\n(pov:1.4), (looking at viewer:1.3), (leaning forward slightly:1.2), (intimate proximity:1.3), (teasing expression:1.2), playful smirk, dynamic angle, (from below:1.2), depth of field, bokeh"
   }
 }
