@@ -60,7 +60,7 @@
     "neg": "(plastic, doll, glossy, 3d render, cgi, cartoon, anime, exaggerated proportions, airbrushed, smooth skin, perfect skin:1.2), \nbad anatomy, bad feet, bad hands, bad proportions, blurry, cloned face, cropped, deformed, disfigured, error, extra arms, extra digits, extra legs, extra limbs, fewer digits, fused fingers, gross proportions, ink eyes, ink hair, jpeg artifacts, long neck, low quality, malformed limbs, missing arms, missing fingers, missing legs, mutated hands, mutation, poorly drawn face, poorly drawn hands, too many fingers, ugly, watermark, signature, text, username, abnormal reflection, distorted reflection, weird eyes, \nworst quality, normal quality\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 7,
+    "scale": 5,
     "smea": true,
     "variety": false
   }
