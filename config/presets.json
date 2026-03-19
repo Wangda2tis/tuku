@@ -60,7 +60,7 @@
     "neg": "bad anatomy, bad feet, bad hands, bad proportions, blurry, cloned face, cropped, deformed, disfigured, error, extra arms, extra digits, extra legs, extra limbs, fewer digits, fused fingers, gross proportions, ink eyes, ink hair, jpeg artifacts, long neck, low quality, malformed limbs, missing arms, missing fingers, missing legs, mutated hands, mutation, poorly drawn face, poorly drawn hands, too many fingers, ugly, watermark, signature, text, username, abnormal reflection, distorted reflection, weird eyes, worst quality, normal quality, missing fabric, clipped clothes, Modeling through, Modeling error, Character model collision, clothing model collision, Wrong type of clothing, wrong color of clothing, wrong style of clothing, wrong position of clothing, wrong movement, Omission of clothing, orange skin\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 6,
+    "scale": 5,
     "smea": true,
     "variety": false
   }
