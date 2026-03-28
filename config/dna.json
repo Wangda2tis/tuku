@@ -10,5 +10,9 @@
   "禁加戏": {
     "source": "",
     "appearance": "Render clothing layers exactly as described. Outer garment remains present. Undergarments are visible only where specified. No improvisation."
+  },
+  "武林外传": {
+    "source": "",
+    "appearance": "(masterpiece, best quality), Chinese sitcom style, Tongfu Inn courtyard, Ming dynasty clothing with comedic twist, warm daylight, expressive faces,\n[character name], [key outfit], [iconic pose or action],\nbackground: wooden sign \"同福客栈\", hanging lanterns, stone well, clay pots,\nstyle: cel shading with soft ink wash, slight caricature proportions, vibrant colors, no photorealistic skin"
   }
 }
