@@ -60,7 +60,7 @@
     "neg": "lowres, worst quality, low quality, normal quality, blurry, blurry face, out of focus, soft focus, pixelated, grainy, noisy, jpeg artifacts, oversaturated, underexposed, overexposed, false, error,\ntext, signature, watermark, username, logo, label, barcode, frame, border,\nbad anatomy, bad proportions, gross proportions, malformed limbs, deformed, disfigured, mutated, mutation, mutilated, morbid,\nmissing arms, missing legs, missing fingers, extra limbs, extra arms, extra legs, extra digits, too many fingers, fused fingers, fewer digits, cloned face, duplicate,\nbad hands, poorly drawn hands, mutated hands, bad feet, poorly drawn face, asymmetrical eyes, deformed eyes, weird eyes, uneven shoulders, crooked teeth, long neck, distorted face, split face, double face,\nunnatural skin tone, wrong skin color, plastic skin, waxy skin, doll-like, airbrushed, overly smooth skin, ugly,\nfull anime style, cel shading, flat colors, line art, cartoon, illustration, drawing, sketch, oil painting,\nanime, \nwrong clothing style, wrong clothing color, abnormal reflection, distorted reflection, \nincorrectly joined underwear, wrong underwear, \nlogical error in clothing layering, no layered clothing, layering mistakes, \nmissing details, clothing consolidation,\npoorly rendered clothing, simplified clothing, textureless fabric, flat clothing,\nno fabric folds, no wrinkles, no creases,\nmissing clothing details, generic clothing, blurry clothing,\nfused clothing layers, indistinct garment edges, clothing without structure,\n[sfw], \n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 9,
+    "scale": 8,
     "smea": true,
     "variety": false
   }
