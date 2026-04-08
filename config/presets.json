@@ -60,7 +60,7 @@
     "neg": "{{bad anatomy}}, {{bad proportions}}, {{deformed}}, {{disfigured}}, {{extra limbs}}, {{fused fingers}}, {{long neck}}, {{malformed limbs}}, {{missing arms}}, {{missing legs}}, {{missing fingers}}, {{mutated}}, {{mutation}}, {{ugly}},\n{cloned face}, {distorted face}, {double face}, {asymmetrical eyes}, {poorly drawn face}, {{poorly drawn hands}}, {extra digits}, {fewer digits}, {too many fingers},\n{low quality}, {worst quality}, {normal quality}, {lowres}, {jpeg artifacts}, {pixelated}, {blurry}, {grainy},\n{text}, {signature}, {watermark}, {logo}, {label}, {cropped}, {error},\n{sketch}, {plastic skin}, {waxy skin}, {airbrushed}, {duplicate}\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 8,
+    "scale": 6,
     "smea": true,
     "variety": false
   }
