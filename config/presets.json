@@ -56,7 +56,7 @@
   },
   "c_1771248204603": {
     "name": "拟真风格",
-    "suffix": "masterpiece, 8k, sharp focus,\nphotorealistic render, photorealistic environment,\n0.5::realistic human anatomy::,\n(ultra-detailed:1.1),\n1.2::dynamic natural posture::,\nnatural texture and fine pores,\n1.1::clothing style by wenqing_yan::,\n0.5::body design by yao_liao_wang::,\n-2::artist collaboration::\n",
+    "suffix": "masterpiece, 8k, sharp focus,\nphotorealistic render, photorealistic environment,\n0.5::realistic human anatomy::,\n(ultra-detailed:1.1),\n1.2::dynamic natural posture::,\nnatural texture and fine pores,\n0.9::clothing style by wenqing_yan::,\n0.6::body design by yao_liao_wang::,\n-2::artist collaboration::\n",
     "neg": "{{bad anatomy}}, {{bad proportions}}, {{deformed}}, {{disfigured}}, {{extra limbs}}, {{fused fingers}}, {{long neck}}, {{malformed limbs}}, {{missing arms}}, {{missing legs}}, {{missing fingers}}, {{mutated}}, {{mutation}}, {{ugly}},\n{cloned face}, {distorted face}, {double face}, {asymmetrical eyes}, {poorly drawn face}, {{poorly drawn hands}}, {extra digits}, {fewer digits}, {too many fingers},\n{low quality}, {worst quality}, {normal quality}, {lowres}, {jpeg artifacts}, {pixelated}, {blurry}, {grainy},\n{text}, {signature}, {watermark}, {logo}, {label}, {cropped}, {error},\n{sketch}, {plastic skin}, {waxy skin}, {airbrushed}, {duplicate}\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
