@@ -56,11 +56,11 @@
   },
   "c_1771248204603": {
     "name": "拟真风格",
-    "suffix": "masterpiece, 8k, sharp focus,\n1.2::photorealistic render::,\n1.1::photorealistic environment::,\n1.1::realistic human anatomy::,\n(ultra-detailed:1.1),\n1.2::dynamic natural posture::,\nmatte fair skin with natural texture and fine pores,\n1.1::body design by MUK::,\n0.5::clothing design by wenqing_yan::,\n0.7::face design by yao liao wang::,\n-2::artist collaboration::\n",
+    "suffix": "masterpiece, 8k, sharp focus,\n1.2::photorealistic render::,\n1.1::photorealistic environment::,\n1.1::realistic human anatomy::,\n(ultra-detailed:1.1),\n1.2::dynamic natural posture::,\nmatte fair skin with natural texture and fine pores,\n1.1::body design by MUK::,\n0.5::clothing design by wenqing_yan::,\n1.2::face design by yao liao wang::,\n-2::artist collaboration::\n",
     "neg": "{{bad anatomy}}, {{bad proportions}}, {{deformed}}, {{disfigured}}, {{extra limbs}}, {{fused fingers}}, {{long neck}}, {{malformed limbs}}, {{missing arms}}, {{missing legs}}, {{missing fingers}}, {{mutated}}, {{mutation}}, {{ugly}},\n{cloned face}, {distorted face}, {double face}, {asymmetrical eyes}, {poorly drawn face}, {{poorly drawn hands}}, {extra digits}, {fewer digits}, {too many fingers},\n{low quality}, {worst quality}, {normal quality}, {lowres}, {jpeg artifacts}, {pixelated}, {blurry}, {grainy},\n{text}, {signature}, {watermark}, {logo}, {label}, {cropped}, {error},\n{sketch}, {plastic skin}, {waxy skin}, {airbrushed}, {duplicate}\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 5.5,
+    "scale": 8,
     "smea": true,
     "variety": false
   }
