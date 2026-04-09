@@ -60,7 +60,7 @@
     "neg": "{{bad anatomy}}, {{bad proportions}}, {{deformed}}, {{disfigured}}, {{malformed limbs}}, {{mutated}}, {{extra limbs}}, {{missing arms}}, {{missing legs}}, {{disconnected limbs}}, {{fused fingers}}, {{extra digits}}, {{fewer digits}}, {{too many fingers}}, {{bad hands}}, {{poorly drawn hands}}, {{cloned face}}, {{distorted face}}, {{double face}}, {{asymmetrical eyes}}, {{poorly drawn face}}, {{long neck}}, {{ugly}}, {{mutilated}},\n{{low quality}}, {{worst quality}}, {{lowres}}, {{blurry}}, {{pixelated}}, {{jpeg artifacts}}, {{compression artifacts}},\n{{text}}, {{signature}}, {{watermark}}, {{logo}}, {{label}}, {{username}}, {{artist name}}, {{cropped}}, {{error}}, {{duplicate}},\n{{sketch}}, {{unfinished}}, {{concept art}}, {{draft}}, {{rough drawing}},\n{{oil painting}}, {{impasto}}, {{painterly}}, {{visible brush marks}}, {{rough brushstrokes}}, {{matte painting}}, {{flat shading}}, {{textureless}},\n{{anime}}, {{anime style}}, {{cartoon}}, {{cartoonish}}, {{cel shading}}, {{2d}},\n{{plastic skin}}, {{waxy skin}}, {{airbrushed}}, {{doll-like}}, {{mannequin}}, {{overall red overlay}}\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 6,
+    "scale": 5,
     "smea": true,
     "variety": false
   }
