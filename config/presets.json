@@ -80,7 +80,7 @@
     "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus,  \ndisfigured, deformed, extra limbs, fused fingers, mutated hands, poorly drawn face, long body, muscular, overweight, rough skin, plastic skin, doll-like, flat lighting, cartoonish background, simple background, nsfw (if you want to avoid explicit content despite内衣细节)\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 6,
+    "scale": 3,
     "smea": false,
     "variety": false
   }
