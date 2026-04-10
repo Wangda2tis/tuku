@@ -77,7 +77,7 @@
   "c_1775810267689": {
     "name": "拟真动漫",
     "suffix": "masterpiece, best quality, ultra-detailed, 8k resolution,  \n3d anime style, soft shading, realistic lighting, cinematic atmosphere,  \nyao_liao_wang, petite, slim waist, delicate features, smooth skin, glowing skin, pinkish complexion,  \nwenqing_yan style, detailed clothing, subtle cleavage,  \nrealistic background, photorealistic objects, depth of field, ambient occlusion, subsurface scattering\n",
-    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus,  \ndisfigured, deformed, extra limbs, fused fingers, mutated hands, poorly drawn face, long body, muscular, overweight, rough skin, plastic skin, doll-like, flat lighting, cartoonish background, simple background, nsfw (if you want to avoid explicit content despite内衣细节)\n",
+    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus,  \ndisfigured, deformed, extra limbs, fused fingers, mutated hands, poorly drawn face, long body, muscular, overweight, rough skin, plastic skin, doll-like, flat lighting, cartoonish background, simple background",
     "sampler": "k_euler_ancestral",
     "steps": 28,
     "scale": 3,
