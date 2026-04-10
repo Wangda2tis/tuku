@@ -78,7 +78,7 @@
     "name": "拟真萝莉",
     "suffix": "2::masterpiece, best quality, ultra-detailed, 8k resolution, photographic-style render::,\ncinematic atmosphere,  \nby yao_liao_wang, 2::petite frame, soft-body, babyfat thighs::, \nby Saito_Rui, 1.1::smooth glowing skin::, dewy skin, porcelain skin tone,\nby wenqing_yan, 1.2::detailed clothing, real clothing::, subtle cleavage,\nrealistic background, photorealistic objects, depth of field, ambient occlusion, subsurface scattering\n",
     "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped,\nworst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus,\ndisfigured, deformed, extra limbs, fused fingers, mutated hands, poorly drawn face,\ntall, long body, muscular, bony, underweight, emaciated, overweight, obese,\nplastic skin, doll-like, flat lighting, cartoonish background, simple background,\nadult features, sharp jawline, heavy makeup, large breasts, matte skin, dry skin\n",
-    "sampler": "k_dpmpp_2m_sde",
+    "sampler": "k_dpmpp_2m",
     "steps": 28,
     "scale": 5.5,
     "smea": true,
