@@ -80,7 +80,7 @@
     "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped,\nworst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus,\ndisfigured, deformed, extra limbs, fused fingers, mutated hands, poorly drawn face,\ntall, long body, muscular, bony, underweight, emaciated, overweight, obese,\nplastic skin, doll-like, flat lighting, cartoonish background, simple background,\nadult features, sharp jawline, heavy makeup, large breasts, matte skin, dry skin\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 5,
+    "scale": 3,
     "smea": true,
     "variety": true
   }
