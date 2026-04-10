@@ -76,7 +76,7 @@
   },
   "c_1775810267689": {
     "name": "拟真萝莉",
-    "suffix": "2::masterpiece, best quality, ultra-detailed, 8k resolution, photographic-style render::,\n3d anime style, soft shading, realistic lighting, cinematic atmosphere,  \nyao_liao_wang, 2::petite soft-body::, plush proportions, delicate features, 1.2::smooth glowing skin, dewy skin::, porcelain skin tone,\n2::detailed clothing, real clothing::, subtle cleavage,\nrealistic background, photorealistic objects, depth of field, ambient occlusion, subsurface scattering\n",
+    "suffix": "2::masterpiece, best quality, ultra-detailed, 8k resolution, photographic-style render::,\n3d anime style, cinematic atmosphere,  \nyao_liao_wang, 2::petite soft-body::, delicate features, 1.5::smooth glowing skin, dewy skin::, porcelain skin tone,\n1.2::detailed clothing, real clothing::, subtle cleavage,\nrealistic background, photorealistic objects, depth of field, ambient occlusion, subsurface scattering\n",
     "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped,\nworst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus,\ndisfigured, deformed, extra limbs, fused fingers, mutated hands, poorly drawn face,\ntall, long body, muscular, bony, underweight, emaciated, overweight, obese,\nplastic skin, doll-like, flat lighting, cartoonish background, simple background,\nadult features, sharp jawline, heavy makeup, large breasts\n",
     "sampler": "k_dpmpp_2m_sde",
     "steps": 28,
