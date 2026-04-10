@@ -56,11 +56,11 @@
   },
   "c_1771248204603": {
     "name": "拟真风格",
-    "suffix": "1.2::masterpiece, 8k::, sharp focus,\nphotorealistic render, photorealistic environment,\n1.1::ultra-detailed::,\n1.1::dynamic natural posture::,\nnatural texture and fine pores,\ncomplex clothing by wenqing_yan,\npetite figure by yao_liao_wang\n",
-    "neg": "{{bad anatomy}}, {{bad proportions}}, {{deformed}}, {{disfigured}}, {{malformed limbs}}, {{mutated}}, {{extra limbs}}, {{missing arms}}, {{missing legs}}, {{disconnected limbs}}, {{fused fingers}}, {{extra digits}}, {{fewer digits}}, {{too many fingers}}, {{bad hands}}, {{poorly drawn hands}}, {{cloned face}}, {{distorted face}}, {{double face}}, {{asymmetrical eyes}}, {{poorly drawn face}}, {{long neck}}, {{ugly}}, {{mutilated}},\n{{low quality}}, {{worst quality}}, {{lowres}}, {{blurry}}, {{pixelated}}, {{jpeg artifacts}}, {{compression artifacts}},\n{{text}}, {{signature}}, {{watermark}}, {{logo}}, {{label}}, {{username}}, {{artist name}}, {{cropped}}, {{error}}, {{duplicate}},\n{{sketch}}, {{unfinished}}, {{concept art}}, {{draft}}, {{rough drawing}},\n{{oil painting}}, {{impasto}}, {{painterly}}, {{visible brush marks}}, {{rough brushstrokes}}, {{matte painting}}, {{flat shading}}, {{textureless}},\n{{anime}}, {{cartoon}}, {{cartoonish}}, {{cel shading}}, {{2d}},\n{{plastic skin}}, {{waxy skin}}, {{airbrushed}}, {{doll-like}}, {{mannequin}}, {{overall red overlay}}\n",
+    "suffix": "1.2::masterpiece, 8k::, sharp focus,\nphotorealistic render, photorealistic environment,\n1.1::ultra-detailed::,\n1.1::dynamic natural posture::,\nnatural texture and fine pores,\ncomplex clothing by wenqing_yan,\n2::petite figure by yao_liao_wang::\n",
+    "neg": "{{bad anatomy}}, {{bad proportions}}, {{deformed}}, {{disfigured}}, {{malformed limbs}}, {{mutated}}, {{extra limbs}}, {{missing arms}}, {{missing legs}}, {{disconnected limbs}}, {{fused fingers}}, {{extra digits}}, {{fewer digits}}, {{too many fingers}}, {{bad hands}}, {{poorly drawn hands}}, {{cloned face}}, {{distorted face}}, {{double face}}, {{asymmetrical eyes}}, {{poorly drawn face}}, {{long neck}}, {{ugly}}, {{mutilated}},\n{{low quality}}, {{worst quality}}, {{lowres}}, {{blurry}}, {{pixelated}}, {{jpeg artifacts}}, {{compression artifacts}},\n{{text}}, {{signature}}, {{watermark}}, {{logo}}, {{label}}, {{username}}, {{artist name}}, {{cropped}}, {{error}}, {{duplicate}},\n{{sketch}}, {{unfinished}}, {{concept art}}, {{draft}}, {{rough drawing}},\n{{oil painting}}, {{impasto}}, {{painterly}}, {{visible brush marks}}, {{rough brushstrokes}}, {{matte painting}}, {{flat shading}}, {{textureless}},\n{{cartoon}}, {{cartoonish}}, {{2d}},\n{{plastic skin}}, {{waxy skin}}, {{airbrushed}}, {{doll-like}}, {{mannequin}}, {{overall red overlay}}\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 5,
+    "scale": 6,
     "smea": true,
     "variety": false
   },
