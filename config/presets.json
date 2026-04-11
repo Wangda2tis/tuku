@@ -76,7 +76,7 @@
   },
   "c_1775810267689": {
     "name": "拟真萝莉",
-    "suffix": "masterpiece, best quality, ultra-detailed, 8k resolution, photographic-style render,\nphotorealistic anime, 3D anime style, ambiguous atmosphere,  \nby yao_liao_wang, 1.5::petite frame, soft-body::, babyfat, \n\nby Saito_Rui, 1.2::smooth glowing skin, dewy skin::, porcelain skin tone, realistic hair strands,\n\nby wenqing_yan, 1.1::detailed clothing, real clothing::, subtle cleavage,\n\nrealistic background, photorealistic objects, depth of field, ambient occlusion, subsurface scattering\n",
+    "suffix": "masterpiece, best quality, ultra-detailed, 8k resolution, photographic-style render,\nphotorealistic anime, 3D anime style, ambiguous atmosphere,\n\nby yao_liao_wang, 1.5::petite frame, soft-body::, babyfat, \n\nby Saito_Rui, 1.2::smooth glowing skin, dewy skin::, porcelain skin tone, realistic hair strands,\n\nby wenqing_yan, 1.1::detailed clothing, real clothing::, subtle cleavage,\n\nrealistic background, photorealistic objects, depth of field, ambient occlusion, subsurface scattering\n",
     "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped,\nworst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus,\ndisfigured, deformed, extra limbs, fused fingers, mutated hands, poorly drawn face,\ntall, long body, muscular, bony, underweight, emaciated, overweight, obese,\nplastic skin, doll-like, flat lighting, cartoonish background, simple background,\nadult features, sharp jawline, heavy makeup, large breasts, matte skin, dry skin\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
