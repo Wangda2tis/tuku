@@ -76,11 +76,11 @@
   },
   "c_1775810267689": {
     "name": "拟真萝莉",
-    "suffix": "masterpiece, best quality, ultra-detailed, 8k, photorealistic character,\nby yao_liao_wang, 1.5::petite frame, soft-body::, 1.1::dewy skin, subsurface scattering::, subtle babyfat thighs,\n1.2::proper clothing layers, accurate layerin::, subtle cleavage,subtle underwear, subtle nsfw,\nrealistic background and objects, depth of field, ambient occlusion",
+    "suffix": "masterpiece, best quality, ultra-detailed, 8k,\nphotorealistic, realistic skin texture,\nby yao_liao_wang,\n1.5::petite frame, soft-body, natural body proportions::,\n1.25::dewy skin, subsurface scattering, fine pores, subtle skin variation::,\nsubtle babyfat, subtle cleavage,\n1.3::natural fabric drape, realistic layering or bare skin, clothing that fits the moment::,\nnuanced intimacy, tasteful nsfw suggestion,\nrealistic background and objects, cinematic lighting, depth of field, ambient occlusion\n",
     "neg": "lowres, bad anatomy, bad proportions, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped,\nworst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus,\ncartoonish, anime screentone, sketch, drawing,\nadult features, sharp jawline, heavy makeup, wrinkles, beard stubble (unless specified),\nfloating clothes, detached sleeves, clothing penetration, clipping, missing clothes,\nsimple background, plain wall, empty room, duplicate, morbid, mutilated\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 5,
+    "scale": 3,
     "smea": true,
     "variety": false
   }
