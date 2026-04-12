@@ -76,8 +76,8 @@
   },
   "c_1775810267689": {
     "name": "拟真萝莉",
-    "suffix": "masterpiece, best quality, ultra-detailed, 8k, photorealistic characters,\n\n2::by yao_liao_wang::, 1.5::petite frame, soft-body::, babyfat, \n\n1.2::proper clothing layers, accurate layerin::, 1.1::clothing detailed::, subtle cleavage,\n\nrealistic background and objects, depth of field, ambient occlusion, subsurface scattering",
-    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped,\nworst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus,\ndisfigured, deformed, extra limbs, fused fingers, mutated hands, poorly drawn face,\ntall, long body, muscular, bony, underweight, emaciated, overweight, obese,\nplastic skin, doll-like, flat lighting, cartoonish background, simple background,\nadult features, sharp jawline, heavy makeup, large breasts, matte skin, dry skin\n",
+    "suffix": "masterpiece, best quality, ultra-detailed, 8k, photorealistic character,\nby yao_liao_wang, 1.5::petite frame, soft-body::, youthful, babyfat thighs,\n1.2::proper clothing layers, accurate layerin::, 1.1::detailed clothing::, subtle cleavage, subtle nsfw,\nrealistic background and objects, depth of field, ambient occlusion",
+    "neg": "lowres, bad anatomy, bad proportions, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped,\nworst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus,\ncartoonish, anime screentone, sketch, drawing,\nadult features, sharp jawline, heavy makeup, wrinkles, beard stubble (unless specified),\nfloating clothes, detached sleeves, clothing penetration, clipping, missing clothes,\nsimple background, plain wall, empty room, duplicate, morbid, mutilated\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
     "scale": 3,
