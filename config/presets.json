@@ -78,7 +78,7 @@
     "name": "拟真萝莉",
     "suffix": "masterpiece, best quality, ultra-detailed, 8k,\nphotorealistic, realistic skin texture,\n\n/* female-only: body & skin */\n1.45::petite frame, soft-body::,\n1.25::dewy skin, subsurface scattering, fine pores, subtle skin variation::, babyfat, subtle body contours,\n\n/* clothing & fabric (applies only when clothing is present) */\n1.35::natural fabric drape, realistic layering or bare skin, clothing that fits the moment::,\n\n/* mood & style */\n0.65::nuanced intimacy::, 0.35::tasteful nsfw suggestion::,\n\n/* global scene & rendering */\n[by yao_liao_wang],\nrealistic background and objects, depth of field, ambient occlusion\n",
     "neg": "lowres, bad anatomy, bad proportions, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped,\nworst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus,\ncartoonish, anime screentone, sketch, drawing,\nadult features, sharp jawline, heavy makeup, wrinkles, beard stubble (unless specified),\nfloating clothes, detached sleeves, clothing penetration, clipping, missing clothes,\nsimple background, plain wall, empty room, duplicate, morbid, mutilated\n",
-    "sampler": "k_euler_ancestral",
+    "sampler": "k_euler",
     "steps": 28,
     "scale": 3,
     "smea": true,
