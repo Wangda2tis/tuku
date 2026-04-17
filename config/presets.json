@@ -76,11 +76,11 @@
   },
   "c_1775810267689": {
     "name": "拟真萝莉",
-    "suffix": "/* global quality & rendering */\n(masterpiece:1.3), (best quality:1.3), (ultra-detailed:1.1), 8k,\nphotorealistic, realistic skin texture,\n\n/* artist style blend (low weight to avoid overpowering realism) */\n(by wlop:0.25),\n\n/* female-only: body & skin */\n[yao_liao_wang style], porcelain complexion, fair skin,\n(petite frame:1.15), (soft body contours:1.15), (dewy skin:1.15), (anatomically correct:1.2),\n(subsurface scattering:0.9), (subtle skin variation:0.6), (subtle contours:0.3),\n\n/* clothing & fabric */\n(natural fabric drape:1.15), (realistic layering or bare skin:1.1), (clothing that fits the moment:1.05),\n\n/* global scene & rendering */\n(realistic background and objects:1.1), ambient occlusion, depth of field.\n",
+    "suffix": "/* global quality & rendering */\n(masterpiece:1.3), (best quality:1.3), (ultra-detailed:1.1), 8k,\nphotorealistic, realistic skin texture,\n\n/* artist style blend (low weight to avoid overpowering realism) */\n(by wlop:0.25),\n\n/* female-only: body & skin */\n[yao_liao_wang style], porcelain complexion, fair skin,\n(petite frame:1.15), (soft body contours:1.15), (dewy skin:1.15), (anatomically correct:1.2),\n(subsurface scattering:0.9), (subtle skin variation:0.6),\n\n/* clothing & fabric */\n(natural fabric drape:1.15), (realistic layering or bare skin:1.1), (clothing that fits the moment:1.05),\n\n/* global scene & rendering */\n(realistic background and objects:1.1), ambient occlusion, depth of field.\n",
     "neg": "lowres, worst quality, low quality, jpeg artifacts, blurry, out of focus,\ntext, signature, watermark, username, duplicate,\nbad anatomy, bad proportions, disfigured, deformed,\nmalformed limbs, floating limbs, extra limbs,\nfused fingers, too many fingers, missing fingers, mutated hands, poorly drawn hands,\nasymmetric eyes, unnatural pose,\nplastic skin, waxy skin, doll-like, airbrushed, overly smooth skin, no skin texture, uniform skin tone,\nunnatural fabric, stiff clothing, floating clothes, clipping, clothing penetration, detached sleeves, missing clothes,\nsimple background, plain wall, empty room,\noverexposed, underexposed, overly warm, unnatural warm glow,\nanime, cartoon, 2D, illustration, drawing, sketch, painting, oil painting, watercolor, cel shading, flat colors, stylized.\n",
     "sampler": "k_euler",
     "steps": 28,
-    "scale": 5,
+    "scale": 4,
     "smea": true,
     "variety": false
   }
