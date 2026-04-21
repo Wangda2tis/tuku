@@ -54,26 +54,6 @@
     "suffix": "{artist:ratatatat74}, detailed, high quality, {{{glistening skin}}}, {{sweat}}, {wet skin}, {oily skin}, {detailed skin}, [skin texture], {{dramatic lighting}}, {{high contrast}}, {volumetric light}, {rim lighting}, {warm lighting}, soft shading, {detailed background}",
     "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, bad face, distorted face, flat lighting, flat shading, cel shading, simple shading, dry skin, matte skin, soft lighting, overexposed, washed out, sketch, lineart, outline"
   },
-  "c_1771248204603": {
-    "name": "拟真风格",
-    "suffix": "1.2::masterpiece, 8k::, sharp focus,\nphotorealistic render, photorealistic environment,\n1.1::ultra-detailed::,\n1.1::dynamic natural posture::,\ncomplex clothing by wenqing_yan,\n2::petite figure by yao_liao_wang::\n",
-    "neg": "{{bad anatomy}}, {{bad proportions}}, {{deformed}}, {{disfigured}}, {{malformed limbs}}, {{mutated}}, {{extra limbs}}, {{missing arms}}, {{missing legs}}, {{disconnected limbs}}, {{fused fingers}}, {{extra digits}}, {{fewer digits}}, {{too many fingers}}, {{bad hands}}, {{poorly drawn hands}}, {{cloned face}}, {{distorted face}}, {{double face}}, {{asymmetrical eyes}}, {{poorly drawn face}}, {{long neck}}, {{ugly}}, {{mutilated}},\n{{low quality}}, {{worst quality}}, {{lowres}}, {{blurry}}, {{pixelated}}, {{jpeg artifacts}}, {{compression artifacts}},\n{{text}}, {{signature}}, {{watermark}}, {{logo}}, {{label}}, {{username}}, {{artist name}}, {{cropped}}, {{error}}, {{duplicate}},\n{{sketch}}, {{unfinished}}, {{concept art}}, {{draft}}, {{rough drawing}},\n{{oil painting}}, {{impasto}}, {{painterly}}, {{visible brush marks}}, {{rough brushstrokes}}, {{matte painting}}, {{flat shading}}, {{textureless}},\n{{cartoon}}, {{cartoonish}}, {{2d}},\n{{plastic skin}}, {{waxy skin}}, {{airbrushed}}, {{doll-like}}, {{mannequin}}, {{overall red overlay}}\n",
-    "sampler": "k_euler_ancestral",
-    "steps": 28,
-    "scale": 6,
-    "smea": true,
-    "variety": true
-  },
-  "c_1775801906649": {
-    "name": "拟真动漫",
-    "suffix": "masterpiece, 8k, surreal anime,\ndreamlike, floating islands, distorted perspective,\n1.1::ultra-detailed::,\n1.1::dynamic natural posture::,\nsmooth porcelain skin,\ncomplex clothing by wenqing_yan,\n2::figure by yao_liao_wang::\n",
-    "neg": "{{bad anatomy}}, {{bad proportions}}, {{deformed}}, {{disfigured}}, {{malformed limbs}}, {{mutated}}, {{extra limbs}}, {{missing arms}}, {{missing legs}}, {{disconnected limbs}}, {{fused fingers}}, {{extra digits}}, {{fewer digits}}, {{too many fingers}}, {{bad hands}}, {{poorly drawn hands}}, {{cloned face}}, {{distorted face}}, {{double face}}, {{asymmetrical eyes}}, {{poorly drawn face}}, {{long neck}}, {{ugly}}, {{mutilated}},\n{{low quality}}, {{worst quality}}, {{lowres}}, {{blurry}}, {{pixelated}}, {{jpeg artifacts}}, {{compression artifacts}},\n{{text}}, {{signature}}, {{watermark}}, {{logo}}, {{label}}, {{username}}, {{artist name}}, {{cropped}}, {{error}}, {{duplicate}},\n{{sketch}}, {{unfinished}}, {{concept art}}, {{draft}}, {{rough drawing}},\n{{oil painting}}, {{impasto}}, {{painterly}}, {{visible brush marks}}, {{rough brushstrokes}}, {{matte painting}}, {{flat shading}}, {{textureless}},\n{{cartoon}}, {{cartoonish}}, {{2d}},\n{{plastic skin}}, {{waxy skin}}, {{airbrushed}}, {{doll-like}}, {{mannequin}}, {{overall red overlay}}\n",
-    "sampler": "k_euler_ancestral",
-    "steps": 28,
-    "scale": 5.5,
-    "smea": false,
-    "variety": false
-  },
   "c_1775810267689": {
     "name": "拟真萝莉",
     "suffix": "masterpiece, best quality, ultra-detailed,\n(semi-realistic anime character:0.75),\n(wlop:0.30), (yao liao wang:0.35),\nanatomically correct proportions,\nsoft body, petite frame,\nrealistic skin texture with natural variation,\n(fair skin with cool undertones:0.75),\nsubsurface scattering,\nrealistic surface rendering (fabric or bare skin),\nnatural material response,\nphysically accurate contours,\n(realistic environmental context:1.0),\nrealistic environmental objects,\nambient occlusion,\n(depth of field:1.1),\n(character in semi-realistic anime style:1.0),\n(environment in photorealistic rendering:1.0).\n",
