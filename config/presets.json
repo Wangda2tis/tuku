@@ -80,7 +80,7 @@
     "neg": "lowres, worst quality, low quality, jpeg artifacts, blurry, out of focus,\ntext, signature, watermark, username, duplicate,\nbad anatomy, bad proportions, disfigured, deformed,\nmalformed limbs, floating limbs, extra limbs,\nfused fingers, too many fingers, missing fingers, mutated hands, poorly drawn hands,\nasymmetric eyes, unnatural pose,\nplastic skin, doll-like, airbrushed, no skin texture,\nunnatural fabric, stiff clothing, floating clothes, clipping, clothing penetration, detached sleeves, missing clothes,\nsimple background, plain wall, empty room,\noverexposed, underexposed, overly warm, unnatural warm glow,\nanime, cartoon, 2D, illustration, drawing, sketch, painting, oil painting, cel shading, flat colors, stylized, film grain.\n",
     "sampler": "k_euler",
     "steps": 28,
-    "scale": 7,
+    "scale": 6,
     "smea": true,
     "variety": false
   }
