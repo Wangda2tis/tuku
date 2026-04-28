@@ -60,7 +60,7 @@
     "neg": "/* === 基础画质问题 === */\nlowres, worst quality, low quality, jpeg artifacts, blurry,\ntext, signature, watermark, username, duplicate,\n\n/* === 解剖与结构错误 === */\nbad anatomy, bad proportions, disfigured, deformed,\nmalformed limbs, extra limbs, fused fingers, mutated hands,\nasymmetric eyes, unnatural pose,\n\n/* === 非目标艺术风格（防插画/二次元污染）=== */\nanime, cartoon, 2D, cel shading, flat colors,\nstylized, illustration, drawing, sketch, painting,\n\n/* === 皮肤材质崩坏 === */\ndoll-like, plastic skin, airbrushed, no skin texture,\nuneven skin tone, hyperpigmentation, blotchy skin,\nwaxy skin, metallic skin, ceramic texture, plastic sheen on skin,\nrubbery skin, latex appearance, silicone look,\n\n/* === 衣物/裸露逻辑错误 === */\nunnatural fabric, stiff clothing, floating clothes,\nclipping, clothing penetration, phantom underwear,\ninconsistent clothing state, forced modesty,\n\n/* === 背景简陋或风格错乱 === */\nsimple background, plain wall, empty room,\nfilm grain, oil painting, matte painting,\n\n/* === 暖色/红色偏移（成人内容主要问题）=== */\noverly warm, unnatural warm glow,\nexcessive red tint,\npink cast on skin,\nwarm color bias,\nflushed skin (unless described),\noverall red haze,\n\n/* === 全色域非自然色偏防护（成年 安全通用）=== */\nexcessive color tint,\nunnatural overall color cast,\nmonochromatic color wash,\nartificial color saturation,\nmuddy color palette,\nsickly skin tone,\njaundiced yellow tint,\ngreenish skin undertone (unless described),\nbluish skin pallor (unless described),\npurplish hue on body (unless described),\norange color bias on skin,\ncyan color bleed,\nmagenta color shift,\ndesaturated except for one color,\noverly saturated single color\n",
     "sampler": "k_dpmpp_2m",
     "steps": 28,
-    "scale": 8.5,
+    "scale": 7.5,
     "smea": false,
     "variety": false
   }
