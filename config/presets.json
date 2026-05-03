@@ -60,7 +60,7 @@
     "neg": "/* === 基础画质与错误防御 === */\nlowres, {bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, \nbad quality, watermark, signature, extra digits, artistic error, username, scan, \n\n/* === 解剖结构毁灭者 (重点强化手部与肢体) === */\nbad anatomy, bad hands, bad feet, extra fingers, missing fingers, \nfused fingers, too many fingers, malformed limbs, extra limbs, missing limbs, \ndisfigured, deformed, long neck, cross-eyed, asymmetrical eyes, \nbad proportions, polar lowres, multiple people, \n\n/* === 风格污染与非目标渲染 === */\ncartoon, 2D, cel shading, flat colors, stylized, illustration, drawing, sketch, painting,\ndoll-like, plastic skin, airbrushed, no skin texture, uneven skin tone, \n\n/* === 材质与光影崩坏 === */\nwaxy skin, metallic skin, ceramic texture, plastic sheen on skin, \nrubbery skin, latex appearance, silicone look, false sweating,\nover-smooth skin, instagram filter, beauty mode,\ncyan rim light, blue ambient glow, unnatural cool glow, cold color cast,\noverly warm, unnatural warm glow, excessive red tint, pink cast on skin, \n\n/* === 构图与逻辑错误 === */\ntext, signature, watermark, username, duplicate, blurry, \nsimple background, plain wall, empty room, film grain, oil painting, matte painting,\nposed, stiff posture, unnatural pose, artificial pose, stock photo pose,\nclipping, clothing penetration, floating clothes, inconsistent clothing state,\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 5,
+    "scale": 7,
     "smea": false,
     "variety": false
   },
