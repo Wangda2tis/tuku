@@ -60,7 +60,7 @@
     "neg": "/* === 基础画质与错误防御 === */\nlowres, bad, error, fewer, extra, missing, worst quality, jpeg artifacts, \nbad quality, bad hand, deformed fingers, {extra finger}, watermark, signature, extra digits, artistic error, username, scan,\n\n/* === 风格污染与非目标渲染 === */\ndrawing, sketch, painting, plastic skin, airbrushed, poor model,\n\n/* === 构图与逻辑错误 === */\ntext, signature, watermark, username, film grain,\nclipping, inconsistent clothing state,\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 5,
+    "scale": 6,
     "smea": true,
     "variety": false
   },
