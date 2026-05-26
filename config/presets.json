@@ -56,11 +56,11 @@
   },
   "c_1775810267689": {
     "name": "拟真少女",
-    "suffix": "/* === 核心画质与审美锚点 (最高优先级) === */\n5::best quality, absurdres, very aesthetic, detailed, masterpiece::,\n[artist by yao liao wang],\n\n/* === 人物画风融合：半写实 + 真实肌理 === */\n[semi-realistic anime character],\n1::WLOP ::, 0.6::misaka12003-gou ::,\n0.8::dino(dinoartforame), wanke, liduke ::,\nanatomically correct proportions,\nyear 2025, year2024,\n\n/* === 皮肤材质升级：光感与细节 === */\n3.5::realistic::, 2::unreal engine 5 render, octane render::,\n2.5::photorealistic::, \n2.5::photo(medium)::, \nrealistic skin texture with natural variation, realistic skin details, \nsubsurface scattering, realistic surface rendering, natural material response,\n\n/* === 环境与光影：写实解耦 === */\nenvironment in photorealistic rendering,\nrealistic environmental context, realistic environmental objects, ambient occlusion, (depth of field:1.1),\n",
+    "suffix": "/* === 核心画质与审美锚点 (最高优先级) === */\n5::best quality, absurdres, very aesthetic, detailed, masterpiece::,\n[artist by yao liao wang],\n\n/* === 人物画风融合：半写实 + 真实肌理 === */\n[semi-realistic anime character],\n1::WLOP ::, 0.6::misaka12003-gou ::,\n0.8::dino(dinoartforame), wanke, liduke ::,\nyear 2025, year2024,\n\n/* === 皮肤材质升级：光感与细节 === */\n3.5::realistic::, 2::unreal engine 5 render, octane render::,\n2.5::photorealistic::, \n2.5::photo(medium)::, \nrealistic skin texture with natural variation, realistic skin details, \nsubsurface scattering, realistic surface rendering, natural material response,\n\n/* === 环境与光影：写实解耦 === */\nenvironment in photorealistic rendering,\nrealistic environmental context, realistic environmental objects, ambient occlusion, (depth of field:1.1),\n",
     "neg": "/* === 基础画质与错误防御 === */\nlowres, bad, error, fewer, extra, missing, worst quality, jpeg artifacts, \nbad quality, bad hand, bad finger, watermark, signature, extra digits, artistic error, username, scan,\n\n/* === 风格污染与非目标渲染 === */\ndrawing, sketch, painting, plastic skin, airbrushed,\n\n/* === 构图与逻辑错误 === */\ntext, signature, watermark, username, film grain,\nclipping, inconsistent clothing state,\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 4,
+    "scale": 8,
     "smea": true,
     "variety": false
   },
